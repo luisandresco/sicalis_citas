@@ -1,0 +1,638 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "pytz",
+        "description": "pytz",
+        "isExtraImport": true,
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "werkzeug.wrappers",
+        "description": "werkzeug.wrappers",
+        "isExtraImport": true,
+        "detail": "werkzeug.wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "werkzeug.wrappers",
+        "description": "werkzeug.wrappers",
+        "isExtraImport": true,
+        "detail": "werkzeug.wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "werkzeug.wrappers",
+        "description": "werkzeug.wrappers",
+        "isExtraImport": true,
+        "detail": "werkzeug.wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "werkzeug.wrappers",
+        "description": "werkzeug.wrappers",
+        "isExtraImport": true,
+        "detail": "werkzeug.wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "werkzeug.utils",
+        "description": "werkzeug.utils",
+        "isExtraImport": true,
+        "detail": "werkzeug.utils",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "werkzeug.utils",
+        "description": "werkzeug.utils",
+        "isExtraImport": true,
+        "detail": "werkzeug.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Rule",
+        "importPath": "werkzeug.routing",
+        "description": "werkzeug.routing",
+        "isExtraImport": true,
+        "detail": "werkzeug.routing",
+        "documentation": {}
+    },
+    {
+        "label": "Rule",
+        "importPath": "werkzeug.routing",
+        "description": "werkzeug.routing",
+        "isExtraImport": true,
+        "detail": "werkzeug.routing",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "importPath": "trytond.transaction",
+        "description": "trytond.transaction",
+        "isExtraImport": true,
+        "detail": "trytond.transaction",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "importPath": "trytond.transaction",
+        "description": "trytond.transaction",
+        "isExtraImport": true,
+        "detail": "trytond.transaction",
+        "documentation": {}
+    },
+    {
+        "label": "Pool",
+        "importPath": "trytond.pool",
+        "description": "trytond.pool",
+        "isExtraImport": true,
+        "detail": "trytond.pool",
+        "documentation": {}
+    },
+    {
+        "label": "PoolMeta",
+        "importPath": "trytond.pool",
+        "description": "trytond.pool",
+        "isExtraImport": true,
+        "detail": "trytond.pool",
+        "documentation": {}
+    },
+    {
+        "label": "Pool",
+        "importPath": "trytond.pool",
+        "description": "trytond.pool",
+        "isExtraImport": true,
+        "detail": "trytond.pool",
+        "documentation": {}
+    },
+    {
+        "label": "PoolMeta",
+        "importPath": "trytond.pool",
+        "description": "trytond.pool",
+        "isExtraImport": true,
+        "detail": "trytond.pool",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "trytond.wsgi",
+        "description": "trytond.wsgi",
+        "isExtraImport": true,
+        "detail": "trytond.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "trytond.wsgi",
+        "description": "trytond.wsgi",
+        "isExtraImport": true,
+        "detail": "trytond.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSQL",
+        "importPath": "trytond.model",
+        "description": "trytond.model",
+        "isExtraImport": true,
+        "detail": "trytond.model",
+        "documentation": {}
+    },
+    {
+        "label": "ModelView",
+        "importPath": "trytond.model",
+        "description": "trytond.model",
+        "isExtraImport": true,
+        "detail": "trytond.model",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "trytond.model",
+        "description": "trytond.model",
+        "isExtraImport": true,
+        "detail": "trytond.model",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSQL",
+        "importPath": "trytond.model",
+        "description": "trytond.model",
+        "isExtraImport": true,
+        "detail": "trytond.model",
+        "documentation": {}
+    },
+    {
+        "label": "ModelView",
+        "importPath": "trytond.model",
+        "description": "trytond.model",
+        "isExtraImport": true,
+        "detail": "trytond.model",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "trytond.model",
+        "description": "trytond.model",
+        "isExtraImport": true,
+        "detail": "trytond.model",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_caracas_time",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def convert_to_caracas_time(utc_time):\n    utc_time = utc_time.replace(tzinfo=pytz.utc)\n    caracas_tz = timezone('America/Caracas')\n    caracas_time = utc_time.astimezone(caracas_tz)\n    return caracas_time\n# Calcula la edad.\ndef calcular_edad(fecha_nac):\n    hoy = date.today()\n    fecha_nac = date.fromisoformat(fecha_nac)\n    edad = hoy.year - fecha_nac.year - \\",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_edad",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def calcular_edad(fecha_nac):\n    hoy = date.today()\n    fecha_nac = date.fromisoformat(fecha_nac)\n    edad = hoy.year - fecha_nac.year - \\\n        ((hoy.month, hoy.day) < (fecha_nac.month, fecha_nac.day))\n    return edad\n# Traduce el campo \"Estado\" en las citas.\ndef translate_state(state):\n    translation_dict = {\n        'confirmed': 'Confirmado',",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "translate_state",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def translate_state(state):\n    translation_dict = {\n        'confirmed': 'Confirmado',\n        'checked_in': 'Registrado',\n        'done': 'Hecho',\n        'user_cancelled': 'Cancelado por el usuario',\n        'center_cancelled': 'Cancelado por el centro de salud',\n        'no_show': 'No asistió'\n    }\n    return translation_dict.get(state, state)",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "serve_static_file",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def serve_static_file(file_path, content_type):\n    dir_path = os.path.dirname(os.path.abspath(__file__))\n    try:\n        with open(os.path.join(dir_path, file_path), 'rb') as f:\n            file_content = f.read()\n        return Response(file_content, status=200, content_type=content_type)\n    except FileNotFoundError:\n        return Response(\"Archivo no encontrado\", status=404)\n# Redenderiza los HTML-CSS.\ndef build_response(html_file:str, css_file:str):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "build_response",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def build_response(html_file:str, css_file:str):\n    dir_path = os.path.dirname(os.path.abspath(__file__))\n    with open(os.path.join(dir_path, html_file), 'r') as f:\n        html = f.read()\n    with open(os.path.join(dir_path, css_file), 'r') as f:\n        css = f.read()\n    return Response(html + css, status=200, content_type='text/html')\n# Envia los códigos de acceso al correo\ndef sendEmail(to_email,token):\n    # Configuración",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "sendEmail",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def sendEmail(to_email,token):\n    # Configuración\n    smtp_server = '10.250.4.168'  #Servidor Exim\n    smtp_port = 25  # Puerto SMTP\n    from_email = 'Sicalis@alcaravan.com.ve' #Correo electrónico\n    subject = 'Sicalis'\n    message = f\"\"\"\n    <!DOCTYPE html>\n    <html lang=\"es\">\n    <head>",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "sendEmailId",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def sendEmailId(token,name,apell,ced,eda,healthproV,specialty,fechas,horaV,tipoide,cedul):\n        tercero = Pool().get('party.party')\n        cedulaTercero = tercero.search([('ref', '=', cedul)])\n        for correo in cedulaTercero:\n            correoTercero = correo.partyEmail\n        to_email = correoTercero\n        # Configuración\n        smtp_server = '10.250.4.168'  #Servidor Exim\n        smtp_port = 25  # Puerto SMTP\n        from_email = 'Sicalis@alcaravan.com.ve' #Correo electrónico",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "serve_img",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def serve_img(request):\n    return serve_static_file(f'static/img/favicon.ico', content_type ='image/svg')\n@app.route('/static/img/image.jpg')\ndef serve_img(request):\n    return serve_static_file(f'static/img/image.jpg', content_type ='image/jpg')\n@app.route('/static/img/image2.jpg')\ndef serve_img(request):\n    return serve_static_file(f'static/img/image2.png', content_type ='image/jpg')\n@app.route('/static/img/SICALIS.png')\ndef serve_img(request):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "serve_img",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def serve_img(request):\n    return serve_static_file(f'static/img/image.jpg', content_type ='image/jpg')\n@app.route('/static/img/image2.jpg')\ndef serve_img(request):\n    return serve_static_file(f'static/img/image2.png', content_type ='image/jpg')\n@app.route('/static/img/SICALIS.png')\ndef serve_img(request):\n    return serve_static_file(f'static/img/SICALIS.png', content_type='image/jpg')\n@app.route('/Sicalis-login')\ndef func1(request):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "serve_img",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def serve_img(request):\n    return serve_static_file(f'static/img/image2.png', content_type ='image/jpg')\n@app.route('/static/img/SICALIS.png')\ndef serve_img(request):\n    return serve_static_file(f'static/img/SICALIS.png', content_type='image/jpg')\n@app.route('/Sicalis-login')\ndef func1(request):\n    return build_response('view/principal.html', 'static/css/principal.css')\n@app.route('/Sicalis-register-email')\ndef func2(request):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "serve_img",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def serve_img(request):\n    return serve_static_file(f'static/img/SICALIS.png', content_type='image/jpg')\n@app.route('/Sicalis-login')\ndef func1(request):\n    return build_response('view/principal.html', 'static/css/principal.css')\n@app.route('/Sicalis-register-email')\ndef func2(request):\n    return build_response('view/email.html', 'static/css/email.css')\n@app.route('/Sicalis-register-Appointment_confirmation_status_patient')\ndef func3(request):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "func1",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def func1(request):\n    return build_response('view/principal.html', 'static/css/principal.css')\n@app.route('/Sicalis-register-email')\ndef func2(request):\n    return build_response('view/email.html', 'static/css/email.css')\n@app.route('/Sicalis-register-Appointment_confirmation_status_patient')\ndef func3(request):\n    return build_response('view/cita.html', 'static/css/cita.css')\n@app.route('/Sicalis-login-registered-HOME-patient-confirmed')\ndef func4(request):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "func2",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def func2(request):\n    return build_response('view/email.html', 'static/css/email.css')\n@app.route('/Sicalis-register-Appointment_confirmation_status_patient')\ndef func3(request):\n    return build_response('view/cita.html', 'static/css/cita.css')\n@app.route('/Sicalis-login-registered-HOME-patient-confirmed')\ndef func4(request):\n    return build_response('view/home.html', 'static/css/home.css')\n@app.route('/Sicalis-login-user-registered-session')\ndef func5(request):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "func3",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def func3(request):\n    return build_response('view/cita.html', 'static/css/cita.css')\n@app.route('/Sicalis-login-registered-HOME-patient-confirmed')\ndef func4(request):\n    return build_response('view/home.html', 'static/css/home.css')\n@app.route('/Sicalis-login-user-registered-session')\ndef func5(request):\n    return build_response('view/iniciarSesion.html', 'static/css/iniciarSesion.css')\n@app.route('/Sicalis-login-user-history')\ndef func5(request):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "func4",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def func4(request):\n    return build_response('view/home.html', 'static/css/home.css')\n@app.route('/Sicalis-login-user-registered-session')\ndef func5(request):\n    return build_response('view/iniciarSesion.html', 'static/css/iniciarSesion.css')\n@app.route('/Sicalis-login-user-history')\ndef func5(request):\n    return build_response('view/historial.html', 'static/css/historial.css')\n@app.route('/Sicalis-exit-session')\ndef func6(self):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "func5",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def func5(request):\n    return build_response('view/iniciarSesion.html', 'static/css/iniciarSesion.css')\n@app.route('/Sicalis-login-user-history')\ndef func5(request):\n    return build_response('view/historial.html', 'static/css/historial.css')\n@app.route('/Sicalis-exit-session')\ndef func6(self):\n    return build_response('view/salir.html', 'static/css/salir.css')\n# Verifica si el tercero tiene un token registrado.\ndef handle_token_response(cedulaSearch):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "func5",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def func5(request):\n    return build_response('view/historial.html', 'static/css/historial.css')\n@app.route('/Sicalis-exit-session')\ndef func6(self):\n    return build_response('view/salir.html', 'static/css/salir.css')\n# Verifica si el tercero tiene un token registrado.\ndef handle_token_response(cedulaSearch):\n    for cedulas in cedulaSearch:\n        token = cedulas.token\n    if token == None:",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "func6",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def func6(self):\n    return build_response('view/salir.html', 'static/css/salir.css')\n# Verifica si el tercero tiene un token registrado.\ndef handle_token_response(cedulaSearch):\n    for cedulas in cedulaSearch:\n        token = cedulas.token\n    if token == None:\n        response_dict = {'url': '/Sicalis-register-email'}\n        json_response = json.dumps(response_dict)\n        return Response(json_response, mimetype='application/json', status=200)",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "handle_token_response",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def handle_token_response(cedulaSearch):\n    for cedulas in cedulaSearch:\n        token = cedulas.token\n    if token == None:\n        response_dict = {'url': '/Sicalis-register-email'}\n        json_response = json.dumps(response_dict)\n        return Response(json_response, mimetype='application/json', status=200)\n    else:\n        response_dict = {'url': '/Sicalis-login-user-registered-session'}\n        json_response = json.dumps(response_dict)",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_terceros",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def get_terceros(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        cedula = request.form.get('cedula')\n        cedulaFederation = 'TIT_{}'.format(cedula)\n        tercero = Pool().get('party.party')\n        patient = Pool().get('gnuhealth.patient')\n        contacMechanism = Pool().get('party.contact_mechanism')\n        cedulaSearch = tercero.search([('ref', '=', cedula)])\n        patientSearch = patient.search([('name', '=', cedula)])\n        contacMechanismSearch = contacMechanism.search(",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_email",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def get_email(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('party.contact_mechanism')\n        cedula = request.form.get('cedula').strip('\"')\n        terceros = party.search([('party', '=', cedula)])\n        response_dict = {'correos': []}\n        for tercero in terceros:\n            response_dict['correos'].append({'correo': tercero.value})\n        json_response = json.dumps(response_dict)\n        return Response(json_response, mimetype='application/json', status=200)",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "send_email_cliente",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def send_email_cliente(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        # Eliminar comillas dobles de la cadena\n        cedula = request.form.get('cedula').strip('\"')\n        Party = Pool().get('party.party')\n        cedulaSearch = Party.search([('ref', '=', cedula)])\n        party_record = cedulaSearch[0]\n        # Caracteres válidos: letras y números\n        alphabet = string.ascii_letters + string.digits\n        # Generar una cadena aleatoria de 6 caracteres combinando letras y números",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "crear_citas",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def crear_citas(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('party.party')\n        party2 = Pool().get('gnuhealth.patient')\n        cedula = request.form.get('cedula').strip('\"')\n        # Buscar los terceros correspondientes\n        terceros = party.search([('ref', '=', cedula)])\n        id_fed_titular = f\"TIT_{cedula}\"\n        id_fed_beneficiarios = [f'TIT_{cedula}']\n        for i in range(1, 10):",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "verification",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def verification(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('party.party')\n        token = request.form.get('token').strip('\"')\n        cedula = request.form.get('cedula').strip('\"')\n        tokenSearch = party.search([('ref', '=', cedula)])\n        for tokens in tokenSearch:\n            code = tokens.token\n        if code == token:\n            response_dict = {'url': '/Sicalis-login-registered-HOME-patient-confirmed'}",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "selectedAutocomplete",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def selectedAutocomplete(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('party.party')\n        cedula = request.form.get('cedula').strip('\"')\n        terceros = party.search([('ref', '=', cedula)])\n        prueba = []\n        response_dict = {'terceroS': []}\n        for tercero in terceros:\n            response_dict['terceroS'].append({\n                'nombre': tercero.name, 'apellido': tercero.lastname})",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "selectedAutocomplete",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def selectedAutocomplete(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('party.party')\n        federation = request.form.get('federation').strip('\"')\n        terceros = party.search([('federation_account', '=', federation)])\n        prueba = []\n        for tercero in terceros:\n            fechaNacimiento = (tercero.dob)\n        response_dict = {'terceroS': []}\n        for tercero in terceros:",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "selectedAutocompleteSpecialty",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def selectedAutocompleteSpecialty(reques):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('gnuhealth.hp_specialty')\n        terceros = party.search([])\n        nombres = set()\n        ids = set()\n        response_dict = {'especialidades': []}\n        for tercero in terceros:\n            nombre = tercero.specialty.nameSpanish\n            id_ = tercero.specialty.id",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "selectedAutocomplete",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def selectedAutocomplete(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('gnuhealth.hp_specialty')\n        # Eliminar comillas dobles de la cadena\n        specialty = request.form.get('specialty')\n        terceros = party.search([('specialty.id', '=', specialty)])\n        response_dict = {'healthprof': []}\n        for tercero in terceros:\n            response_dict['healthprof'].append({\n                'nombre': tercero.name.name.name, 'apellido': tercero.name.name.lastname, 'id': tercero.name.id})",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "selectedAutocomplete",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def selectedAutocomplete(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('gnuhealth.appointment')\n        especialidadId = int(request.form.get('esp').strip('\"'))\n        healthProf = int(request.form.get('hp').strip('\"'))\n        state = 'free'.strip('\"')\n        now = datetime.now()\n        formatted_date = now.strftime(\"%Y-%m-%d\")\n        formatted_time = now.strftime(\"%H:%M:%S\")\n        hourDate = formatted_date + \" \" + formatted_time",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "selectedAutocomplete",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def selectedAutocomplete(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        party = Pool().get('gnuhealth.appointment')\n        citaID = request.form.get('citaID').strip('\"')\n        tipoVisita = request.form.get('tipoVisita').strip('\"')\n        idpaciente = request.form.get('idpaciente').strip('\"')\n        name = request.form.get('name').strip('\"')\n        apell = request.form.get('apell').strip('\"')\n        ced = request.form.get('ced').strip('\"')\n        eda = request.form.get('eda').strip('\"')",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "loadHistory",
+        "kind": 2,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "def loadHistory(request):\n     with Transaction().start(database_name, 1, context=CONTEXT):\n         party = Pool().get('party.party')\n         party2 = Pool().get('gnuhealth.patient')\n         cedula = request.form.get('cedula').strip('\"')\n        # Obtener los parámetros de paginación\n         page = request.form.get('page', 1, type=int)\n         print(page)\n         per_page = request.form.get('per_page', 10, type=int)\n         offset = (page - 1) * per_page",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "database_name",
+        "kind": 5,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "database_name = 'consultorio_alcaravan'\nCONTEXT = {'active_test': False}\ndef convert_to_caracas_time(utc_time):\n    utc_time = utc_time.replace(tzinfo=pytz.utc)\n    caracas_tz = timezone('America/Caracas')\n    caracas_time = utc_time.astimezone(caracas_tz)\n    return caracas_time\n# Calcula la edad.\ndef calcular_edad(fecha_nac):\n    hoy = date.today()",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "CONTEXT",
+        "kind": 5,
+        "importPath": "citas_controller",
+        "description": "citas_controller",
+        "peekOfCode": "CONTEXT = {'active_test': False}\ndef convert_to_caracas_time(utc_time):\n    utc_time = utc_time.replace(tzinfo=pytz.utc)\n    caracas_tz = timezone('America/Caracas')\n    caracas_time = utc_time.astimezone(caracas_tz)\n    return caracas_time\n# Calcula la edad.\ndef calcular_edad(fecha_nac):\n    hoy = date.today()\n    fecha_nac = date.fromisoformat(fecha_nac)",
+        "detail": "citas_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_specialty_names",
+        "kind": 2,
+        "importPath": "specialtySpanish",
+        "description": "specialtySpanish",
+        "peekOfCode": "def update_specialty_names(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        Specialty = Pool().get('gnuhealth.specialty')\n        especialidades_traducidas = {\n    1: \"Anatomía\",\n    2: \"Andrología\",\n    3: \"Medicina alternativa\",\n    4: \"Anestesiología\",\n    5: \"Bioquímica\",\n    6: \"Cardiología\",",
+        "detail": "specialtySpanish",
+        "documentation": {}
+    },
+    {
+        "label": "database_name",
+        "kind": 5,
+        "importPath": "specialtySpanish",
+        "description": "specialtySpanish",
+        "peekOfCode": "database_name = 'consultorio_alcaravan'\nCONTEXT = {'active_test': False}\n# diccionario de especialidades traducidas en español\n@app.route('/traslateSpanish', methods=['GET'])\ndef update_specialty_names(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        Specialty = Pool().get('gnuhealth.specialty')\n        especialidades_traducidas = {\n    1: \"Anatomía\",\n    2: \"Andrología\",",
+        "detail": "specialtySpanish",
+        "documentation": {}
+    },
+    {
+        "label": "CONTEXT",
+        "kind": 5,
+        "importPath": "specialtySpanish",
+        "description": "specialtySpanish",
+        "peekOfCode": "CONTEXT = {'active_test': False}\n# diccionario de especialidades traducidas en español\n@app.route('/traslateSpanish', methods=['GET'])\ndef update_specialty_names(request):\n    with Transaction().start(database_name, 1, context=CONTEXT):\n        Specialty = Pool().get('gnuhealth.specialty')\n        especialidades_traducidas = {\n    1: \"Anatomía\",\n    2: \"Andrología\",\n    3: \"Medicina alternativa\",",
+        "detail": "specialtySpanish",
+        "documentation": {}
+    }
+]

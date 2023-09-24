@@ -1,0 +1,187 @@
+<style>* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    color: rgb(85, 83, 83);
+}
+
+body {
+    height: 100%;
+    background-color: #dfe9f5;
+
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    background-color: #fff;
+    width: 100px;
+    overflow: hidden;
+    transition: width 0.2s linear;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-weight: bold;
+    padding: 15px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+a {
+    position: relative;
+    font-size: 14px;
+    display: table;
+    width: 300px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.fas {
+    position: relative;
+    width: 70px;
+    height: 40px;
+    top: 14px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.fa-solid {
+    position: relative;
+    width: 70px;
+    height: 40px;
+    top: 14px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.nav-item {
+    position: relative;
+    top: 12px;
+    margin-left: 10px;
+
+}
+
+a:hover {
+    background-color: #eee;
+}
+
+.nav-anime {
+    width: 280px;
+    transition: all 0.5s ease;
+}
+
+.logout {
+    position: absolute;
+    bottom: 0;
+}
+
+li {
+    list-style: none;
+}
+
+ol,
+ul {
+    padding: 0.6rem;
+}
+
+.form-select {
+    color: rgb(85, 83, 83);
+}
+
+.color {
+    color: rgb(85, 83, 83);
+}
+
+.btn-close-custom {
+    border: none;
+}
+
+.btn-close-custom:hover {
+    color: #000;
+}
+
+
+.my-swal-font-size .swal2-title {
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: fit-content;
+    z-index: 9999;
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
+
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #000;
+    opacity: 0.5;
+    z-index: 10;
+}
+
+.swal2-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+@media (max-width: 767px) {
+    nav {
+        width: 50px;
+    }
+
+    .fa-solid {
+        width: 50px;
+        text-align: start;
+    }
+
+    .fas {
+        width: 50px;
+        text-align: start;
+    }
+}
+
+.btn-primary {
+    background: #0c6c82ff;
+    border: #0c6c82ff;
+}
+
+.btn.disabled,
+.btn:disabled,
+fieldset:disabled .btn {
+    background-color: #0c6c82ff;
+}
+
+button.btn:hover {
+    background-color: #0c6c82ff;
+}
+
+button.btn:focus,
+button.btn:active {
+    box-shadow: none !important;
+    background-color: #0c6c82ff !important;
+    color: #fff;
+}
+
+</style>

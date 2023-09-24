@@ -1,0 +1,100 @@
+<style>* {
+    font-family: "Poppins", sans-serif;
+    color: rgb(85, 83, 83);
+}
+
+body {
+    background-image: url("/static/img/image.jpg");
+    background-size: cover;
+
+}
+
+.card-title {
+    color: rgb(85, 83, 83);
+}
+
+.option-title {
+    color: rgb(85, 83, 83);
+}
+
+.row {
+    height: 100vh;
+}
+
+.linea {
+    border: none;
+    border-bottom: 1px solid rgb(85, 83, 83);
+}
+
+.my-swal-font-size .swal2-title {
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: fit-content;
+    z-index: 9999;
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
+
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #000;
+    opacity: 0.5;
+    z-index: 10;
+}
+
+@media (max-width: 350px) {
+    .button-between .btn {
+        font-size: 14px;
+        display: inline;
+        width: 80px;
+    }
+}
+
+a {
+    font-size: 12px;
+    color: #0c6c82ff;
+}
+
+.contain-auto {
+    margin: auto;
+    padding: 30px 0px 30px 0px;
+}
+
+.button {
+    background-color: #0c6c82ff;
+    border: #0c6c82ff;
+}
+
+button.btn:hover {
+    background-color: #0c6c82ff;
+}
+
+button.btn:focus,
+button.btn:active {
+    box-shadow: none !important;
+    background-color: #0c6c82ff !important;
+}
+
+.btn:active,
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+
+</style>

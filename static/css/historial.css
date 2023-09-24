@@ -1,0 +1,165 @@
+<style>* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    color: rgb(85, 83, 83);
+}
+
+.hola {
+    font-size: 12px;
+}
+
+.hola1 {
+    font-size: 12px;
+}
+
+.hola3 {
+    font-size: 14px;
+}
+
+.hola4 {
+    font-size: 14px;
+}
+
+.h1 {
+    color: #555353;
+}
+
+.juan {
+    width: 310px;
+}
+
+.container-top-end {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    color: rgb(0, 0, 0);
+}
+
+body {
+    height: 100%;
+    background-color: #dfe9f5;
+
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    background-color: #fff;
+    width: 100px;
+    overflow: hidden;
+    transition: width 0.2s linear;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-weight: bold;
+    padding: 15px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+a {
+    position: relative;
+    font-size: 14px;
+    display: table;
+    width: 300px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.fas {
+    position: relative;
+    width: 70px;
+    height: 40px;
+    top: 14px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.fa-solid {
+    position: relative;
+    width: 70px;
+    height: 40px;
+    top: 14px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.nav-item {
+    position: relative;
+    top: 12px;
+    margin-left: 10px;
+
+}
+
+.example{
+   margin-right: auto;
+}
+
+ul.pagination {
+    display: flex;
+    justify-content: flex-end;
+}
+.page-link{
+    width: 20px ;
+
+}
+
+a:hover {
+    background-color: #eee;
+}
+
+.nav-anime {
+    width: 280px;
+    transition: all 0.5s ease;
+}
+
+.logout {
+    position: absolute;
+    bottom: 0;
+}
+
+li {
+    list-style: none;
+}
+
+ol,
+ul {
+    padding: 0.6rem;
+}
+
+.form-select {
+    color: rgb(85, 83, 83);
+}
+
+.color {
+    color: rgb(85, 83, 83);
+}
+
+@media (max-width: 767px) {
+    nav {
+        width: 50px;
+    }
+
+    .fa-solid {
+        width: 50px;
+        text-align: start;
+    }
+
+    .fas {
+        width: 50px;
+        text-align: start;
+    }
+}
+
+
+
+</style>
